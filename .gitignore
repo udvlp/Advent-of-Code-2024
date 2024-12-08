@@ -1,0 +1,9 @@
+**/.csproj.user
+**/.vs
+**/.vscode
+**/bin
+**/example.txt
+**/input.txt
+**/obj
+**/Properties
+/.gitattributes
